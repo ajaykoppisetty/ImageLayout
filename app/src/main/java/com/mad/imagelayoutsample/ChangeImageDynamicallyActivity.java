@@ -1,7 +1,6 @@
-package com.mad.imagelayoutsample;
 
 /*
- * Copyright (C) 2014 Manuel Peinado
+ * Copyright (C) 2016 Ajay C Koppisetty
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,6 +14,7 @@ package com.mad.imagelayoutsample;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+package com.mad.imagelayoutsample;
 
 import android.app.Activity;
 import android.os.Bundle;
