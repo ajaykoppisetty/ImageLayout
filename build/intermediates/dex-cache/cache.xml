@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aj/Documents/workspace/ImageLayoutSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/aj/Documents/workspace/ImageLayoutSample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_b037995e59cacd47cd8d97be50d66429f1a61a3d.jar" />
+    </item>
+    <item
+        jar="/Users/aj/Documents/workspace/ImageLayoutSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/aj/Documents/workspace/ImageLayoutSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_2fe00159ff64e120d867dc87ae28ea81d5f25019.jar" />
+    </item>
+    <item
+        jar="/Users/aj/Documents/workspace/ImageLayoutSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/aj/Documents/workspace/ImageLayoutSample/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_03fef4d605525d0e1439ea08317bd52f1c1ca002.jar" />
+    </item>
+    <item
+        jar="/Users/aj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/aj/Documents/workspace/ImageLayoutSample/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_64cfb72375118653a8c23f0e9831750cfe7c0e39.jar" />
+    </item>
+    <item
+        jar="/Users/aj/Documents/workspace/ImageLayoutSample/app/build/intermediates/exploded-aar/ImageLayoutSample/Library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c200bd6371a0f25fc22755d525b1704d1a6be2f7">
+        <dex dex="/Users/aj/Documents/workspace/ImageLayoutSample/app/build/intermediates/pre-dexed/debug/ImageLayoutSample-Library-unspecified_dc53b9d6f3457878bd44e2337b5f9c992321932c.jar" />
+    </item>
+
+</items>

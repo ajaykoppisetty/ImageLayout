@@ -1,2 +1,5 @@
-include ':library'
-include ':sample'
+/*
+ * Copyright (c) 2016. Ajay C Koppisetty
+ */
+
+include ':app', ':Library'
